@@ -1,4 +1,3 @@
-# user_information_uploader
 User Information Uploader
 This web application allows users to upload a data file containing their personal information, which is then used to pre-fill a form. The user can then complete the form, and the information is saved to a database for later use.
 
